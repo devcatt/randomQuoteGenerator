@@ -1,2 +1,2 @@
 # randomQuoteGenerator
-random quote generator xx
+yes thats it tbh
